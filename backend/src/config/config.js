@@ -1,7 +1,7 @@
 const config = {
-    user : 'olivgu01',
-    pw : 'Ebyeavnq16',
-    database : 'jump_to_db'
+    user : 'SEU USUÁRIO',
+    pw : 'SUA SENHA',
+    database : 'SUA BASE DE DADOS'
 }
 
 export default config;
